@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Ghost Boy
+* source:	https://sketchfab.com/3d-models/the-ghost-boy-13291c7bb3ab4cbf84c472e5c0f87721
+* author:	igoremba (https://sketchfab.com/igoremba)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Ghost Boy" (https://sketchfab.com/3d-models/the-ghost-boy-13291c7bb3ab4cbf84c472e5c0f87721) by igoremba (https://sketchfab.com/igoremba) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

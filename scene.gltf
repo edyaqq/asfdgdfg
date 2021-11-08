@@ -1,0 +1,511 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        -6.344202041625977,
+        9.627199172973633,
+        40.53521728515625
+      ],
+      "min": [
+        -21.33100128173828,
+        -14.270186424255371,
+        3.523252010345459
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        0.9999986290931702,
+        0.9999661445617676
+      ],
+      "min": [
+        -0.9999985098838806,
+        -0.9999982118606567,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.997078001499176,
+        0.9965280294418335
+      ],
+      "min": [
+        0.0012989999959245324,
+        0.0023169999476522207
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 361872,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 33525,
+      "max": [
+        -8.132844924926758,
+        8.876602172851563,
+        25.86775779724121
+      ],
+      "min": [
+        -20.23216438293457,
+        -13.067131042480469,
+        3.1928369998931885
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1975068,
+      "componentType": 5126,
+      "count": 33525,
+      "max": [
+        0.9999684691429138,
+        0.9998019933700562,
+        0.9999876618385315
+      ],
+      "min": [
+        -0.9999684691429138,
+        -0.9999111294746399,
+        -0.9999876618385315
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 33525,
+      "max": [
+        0.9691780209541321,
+        0.9925130009651184
+      ],
+      "min": [
+        0.07040899991989136,
+        0.047148000448942184
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1447488,
+      "componentType": 5125,
+      "count": 184770,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2377368,
+      "componentType": 5126,
+      "count": 31513,
+      "max": [
+        -13.77967643737793,
+        1.3320109844207764,
+        30.458786010742188
+      ],
+      "min": [
+        -17.95745277404785,
+        -5.627202987670898,
+        15.976466178894043
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2755524,
+      "componentType": 5126,
+      "count": 31513,
+      "max": [
+        0.9999997615814209,
+        0.9999642372131348,
+        0.9999876618385315
+      ],
+      "min": [
+        -0.9999998807907104,
+        -0.9999633431434631,
+        -0.9999661445617676
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 792456,
+      "componentType": 5126,
+      "count": 31513,
+      "max": [
+        0.9969890117645264,
+        0.9986129999160767
+      ],
+      "min": [
+        0.0015589999966323376,
+        0.008321999572217464
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2186568,
+      "componentType": 5125,
+      "count": 162456,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3133680,
+      "componentType": 5126,
+      "count": 5759,
+      "max": [
+        -6.939530849456787,
+        17.611154556274414,
+        44.743560791015625
+      ],
+      "min": [
+        -27.7045841217041,
+        -20.149309158325195,
+        2.3590829372406006
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3202788,
+      "componentType": 5126,
+      "count": 5759,
+      "max": [
+        1.0,
+        1.0,
+        0.999468982219696
+      ],
+      "min": [
+        -0.9996078610420227,
+        -0.9995467662811279,
+        -0.9997403621673584
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1044560,
+      "componentType": 5126,
+      "count": 5759,
+      "max": [
+        0.9972280263900757,
+        0.9928470253944397
+      ],
+      "min": [
+        0.009999999776482582,
+        0.01658800058066845
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2836392,
+      "componentType": 5125,
+      "count": 30690,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3271896,
+      "componentType": 5126,
+      "count": 18,
+      "max": [
+        -16.265117645263672,
+        -1.2314269542694092,
+        27.095239639282227
+      ],
+      "min": [
+        -16.878677368164063,
+        -2.247709035873413,
+        26.255956649780273
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3272112,
+      "componentType": 5126,
+      "count": 18,
+      "max": [
+        0.3081119954586029,
+        0.972882866859436,
+        0.9167918562889099
+      ],
+      "min": [
+        -0.9117664098739624,
+        0.0048830024898052216,
+        -0.22950197756290436
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1090632,
+      "componentType": 5126,
+      "count": 18,
+      "max": [
+        0.31539401412010193,
+        0.6482899785041809
+      ],
+      "min": [
+        0.31529501080513,
+        0.646731972694397
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2959152,
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "igoremba (https://sketchfab.com/igoremba)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/the-ghost-boy-13291c7bb3ab4cbf84c472e5c0f87721",
+      "title": "The Ghost Boy"
+    },
+    "generator": "Sketchfab-11.26.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2959344,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1090776,
+      "byteOffset": 2959344,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3272328,
+      "byteOffset": 4050120,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7322448,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/1001_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "1001",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "1002",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "all.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    },
+    {
+      "mesh": 4,
+      "name": "Object_6"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
